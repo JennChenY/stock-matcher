@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: stock-matcher
+
+server:
+  contextPath: /stock-mathcer
+  port: 8080
+
+#aws:
+#  region: us-west-2
+#  acessKey: [ACCESS_KEY]
+#  secretKey: [SECRET_KEY]
